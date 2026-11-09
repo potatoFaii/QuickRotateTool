@@ -1,6 +1,8 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Autodesk Maya](https://img.shields.io/badge/Autodesk-Maya-0696D7?style=for-the-badge)
 
+<img width="292" height="133" alt="image" src="https://github.com/user-attachments/assets/100d7153-4506-40d2-9994-627a47e05d56" />
+
 # QuickRotateTool for Autodesk Maya
 
 ## Overview
